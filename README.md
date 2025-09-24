@@ -1,4 +1,4 @@
-# Aura Finance - AI DeFi Yield Optimizer (21-Day Sprint)
+# Chubby Aura Finance - AI DeFi Yield Optimizer (21-Day Sprint)
 
 ![Aura Finance](https://img.shields.io/badge/DeFi-Yield%20Optimizer-blue)
 ![Timeline](https://img.shields.io/badge/Timeline-21%20Days-critical)
